@@ -1,7 +1,7 @@
 # covid19
 Comparing Supervised Machine Learning Models and Time Series Models in Predicting COVID Cases Globally.
 
-This is my second capstone project conducted while enrolled in Thinkful's Data Science Immersion program. Data was obtained from the John's Hopkin's public COVID-19 Repo, found here: https://github.com/CSSEGISandData/COVID-19.
+This is my second capstone project conducted while enrolled in Thinkful's Data Science Immersion program. Data was obtained from the John's Hopkins University public COVID-19 Repo, found here: https://github.com/CSSEGISandData/COVID-19.
 
 ## Project Premise:
 Can supervised machine learning models accurately predict global COVID-19 cases? How do these forecasts differ from time series models such as ARIMA? Moreover, what can we learn about supervised machine learning models' predictive power by applying them to a time series analysis?
